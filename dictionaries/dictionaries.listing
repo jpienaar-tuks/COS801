@@ -1,0 +1,7 @@
+.DS_Store
+._encoded_vocabulary.csv
+dictionaries.listing
+encoded_vocabulary.csv
+merged_embeddings.csv
+pos_tag_embeddings.csv
+word_embeddings.csv

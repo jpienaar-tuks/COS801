@@ -1,0 +1,7 @@
+﻿dictionaries/*
+labelled_contracts/*
+*.tar.gz
+random python scratchings.txt
+*.docx
+*.stabilo
+!*.listing
